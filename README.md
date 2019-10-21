@@ -6,3 +6,4 @@ This is a convolution neural network trained using gpu to check whether the imag
 4.Street
 5.Forest
 6.Glacier
+The data for this can be found here https://www.kaggle.com/puneet6060/intel-image-classification. I highly recommend keeping it on a ssd during the training phase 
